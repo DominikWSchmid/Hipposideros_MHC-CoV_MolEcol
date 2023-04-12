@@ -1,7 +1,7 @@
 # Hipposideros_MHC-CoV_MolEcol
 Here we deposit the data presented in the upcoming Mol Ecol research paper entitled "MHC class II genes mediate susceptibility and resistance to coronavirus infections in bats".
 
-We provide three datasets (Hip_MHC-CoV-data_Schmidetal2023MolEcol.csv; Hip_community-data_Schmidetal2023MolEcol.csv; and ) as CSV format. They form the backbone of the analysis performed in the associated R Markdown (Schmid.Meyer_MolEcol23_Rscript.Rmd).
+We provide three datasets (Hip_MHC-CoV-data_Schmidetal2023MolEcol.csv; Hip_community-data_Schmidetal2023MolEcol.csv; and Hip_community-CoV-data_Schmidetal2023MolEcol.csv) as CSV format. They form the backbone of the analysis performed in the associated R Markdown (Schmid.Meyer_MolEcol23_Rscript.Rmd).
 
 Additionally, we provide an excel file (Hip_MHCII-DRB2_sequences_Schmidetal2023MolEcol) with four sheets listing the MHC class II DRB exon 2 allele sequences identified among the four hipposiderid species.
 
