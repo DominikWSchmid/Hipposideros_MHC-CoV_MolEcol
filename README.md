@@ -3,7 +3,7 @@ Here we deposit the data presented in the upcoming Mol Ecol research paper entit
 
 We provide three datasets (Hip_MHC-CoV-data_Schmidetal2023MolEcol.csv; Hip_community-data_Schmidetal2023MolEcol.csv; and ) as CSV format. They form the backbone of the analysis performed in the associated R Markdown (Schmid.Meyer_MolEcol23_Rscript.Rmd).
 
-Additionally, we provide an excel file with four sheets listing the MHC class II DRB exon 2 allele sequences identified among the four hipposiderid species.
+Additionally, we provide an excel file (Hip_MHCII-DRB2_sequences_Schmidetal2023MolEcol) with four sheets listing the MHC class II DRB exon 2 allele sequences identified among the four hipposiderid species.
 
 
 Hip_MHC-CoV-data_Schmidetal2023MolEcol.csv contains 191 columns containing the individual information of each of the 569 MHC-typed bats as rows:
