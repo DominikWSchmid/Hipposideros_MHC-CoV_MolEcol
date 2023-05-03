@@ -7,7 +7,7 @@ Additionally, we provide an excel file (Hip_MHCII-DRB2_sequences_Schmidetal2023M
 
 
 
-> Hip_MHC-CoV-data_Schmidetal2023MolEcol.csv contains 191 columns containing the individual information of each of the 569 MHC-typed bats as rows:
+>> Hip_MHC-CoV-data_Schmidetal2023MolEcol.csv contains 191 columns containing the individual information of each of the 569 MHC-typed bats as rows:
 
 A. ID (a unique identfier)
 B. species (taxonomic identity) 
