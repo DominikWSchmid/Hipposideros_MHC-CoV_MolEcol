@@ -7,7 +7,7 @@ Additionally, we provide an excel file (Hip_MHCII-DRB2_sequences_Schmidetal2023M
 
 
 
-Hip_MHC-CoV-data_Schmidetal2023MolEcol.csv contains 191 columns containing the individual information of each of the 569 MHC-typed bats as rows:
+> Hip_MHC-CoV-data_Schmidetal2023MolEcol.csv contains 191 columns containing the individual information of each of the 569 MHC-typed bats as rows:
 
 A. ID (a unique identfier)
 B. species (taxonomic identity) 
@@ -32,7 +32,7 @@ FX.-GI. MHC STs 1-12 (presence/absence data on MHC class II DRB exon 2 supertype
 
 
 
-Hip_community-data_Schmidetal2023MolEcol.csv contains 16 columns:
+> Hip_community-data_Schmidetal2023MolEcol.csv contains 16 columns:
 
 A. Location (five different core sampling locations in Ghana)
 B.-P.: Bat species presence/absence data 
@@ -40,6 +40,7 @@ B.-P.: Bat species presence/absence data
 
 
  Hip_community-CoV-data_Schmidetal2023MolEcol.csv contains 7 columns: 
+ 
  A. ID (a unique identifier)
  B. X229ELogical (binary presence/absence data for CoV-229E infections)
  C. X2bLogical (binary presence/absence data for CoV-2B infections)
