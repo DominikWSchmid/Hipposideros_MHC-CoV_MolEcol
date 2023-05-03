@@ -39,8 +39,14 @@ B.-P.: Bat species presence/absence data
 
 
 
-
-
+ Hip_community-CoV-data_Schmidetal2023MolEcol.csv contains 7 columns: 
+ A. ID (a unique identifier)
+ B. X229ELogical (binary presence/absence data for CoV-229E infections)
+ C. X2bLogical (binary presence/absence data for CoV-2B infections)
+ D. X2bBasalLogical (binary presence/absence data for CoV-2Bbasal infections)
+ E. Lineage (species name or lineage membership of hipposideros bats)
+ F. Location (five different core sampling locations in Ghana)
+ G. Species (taxonomic identity) 
 
 
 
