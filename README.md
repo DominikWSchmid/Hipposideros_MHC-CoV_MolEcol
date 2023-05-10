@@ -41,7 +41,7 @@ B.-P.: Bat species presence/absence data
 
  - Hip_community-CoV-data_Schmidetal2023MolEcol.csv contains 7 columns: 
  
- > A. ID (a unique identifier)
+ > A. ID (a unique identifier; captures without tissue sample were not given an explicit ID and are presented as n/a)
  B. X229ELogical (binary presence/absence data for CoV-229E infections)
  C. X2bLogical (binary presence/absence data for CoV-2B infections)
  D. X2bBasalLogical (binary presence/absence data for CoV-2Bbasal infections)
